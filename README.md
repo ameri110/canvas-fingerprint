@@ -6,7 +6,7 @@ Get canvas fingerprint from browser using a single js file. (similar to https://
 
 or
 
-`<script src="https://raw.githubusercontent.com/ameri110/canvas-fingerprint/main/canvasfingerpring.min.js"></script>`
+`<script src="https://cdn.jsdelivr.net/gh/ameri110/canvas-fingerprint@main/canvasfingerprint.min.js"></script>`
 
 2- call `get_canvas_fingerprint()` in your js to get an output like this:
 
